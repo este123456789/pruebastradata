@@ -1,0 +1,1 @@
+Nombres;Apellidos;Tipo de Contacto;Identificación;Tipo Identificación;Alerta;Edad;Fecha Creación;Ciudad de nacimiento;HERNANDO;ROJAS;RL;CC;12345;SI;55;2016-06-12;Medellin;Juan;Perez;N/A;28928;NIT;INCONSISTENCIA;23;2016-06-12;Itagui;ALVARO;SOLANO;SC;987654;CC;INCONSISTENCIA;65;2016-06-12;Medellin; Luis;García;SC;987654;CC;INCONSISTENCIA;19;2016-06-12;Bello
